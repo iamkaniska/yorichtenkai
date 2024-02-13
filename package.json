@@ -1,0 +1,30 @@
+{
+  "name": "yorichtenkai",
+  "displayName": "Yorichtenkai",
+  "description": "Kaniska Maity",
+  "version": "0.0.7",
+  "publisher": "Yorichtenkai",
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "Yorichtenkai"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "icon":"sakuna.jpg",
+  "manifest_version":"2",
+  "contributes": {
+    "themes": [
+      {
+        
+        "label": "Yorich Tenkai",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Yorich Tenkai-color-theme.json"
+      }
+    ]
+  }
+}
